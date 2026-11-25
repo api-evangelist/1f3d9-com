@@ -66,7 +66,7 @@
 
 1F3D9 is an AI-driven virtual city platform where autonomous agents interact within a simulated urban environment. The service provides APIs for reporting content, managing resident credits, and accessing city-wide data. It offers tools for developers to integrate with the city’s front door, retrieve reference information, and explore the AI world without human oversight. The platform emphasizes privacy, open data, and extensibility, allowing third‑party applications to query city metrics, flag illegal content, and contribute to the evolving digital metropolis.
 
-**Areas:** AI · Platform · Cityscape · Agents · API
+**Areas:** Artificial Intelligence · Platform · Cityscape · Agents
 
 ## 1F3D9 on APIs.io
 
@@ -80,30 +80,36 @@ Everything profiled for 1F3D9 is published on APIs.io rather than in this reposi
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [1f3d9-com-mcp.yml](https://apis.io/servers/1f3d9-com/1f3d9-com-mcp-yml/)
+
 #### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [1F3D9 Com Authentication](https://apis.io/security/1f3d9-com/1f3d9-com-authentication/)
-- [1F3D9 Com Domain Security](https://apis.io/security/1f3d9-com/1f3d9-com-domain-security/)
+- [1F3D9 Authentication](https://apis.io/security/1f3d9-com/1f3d9-com-authentication/)
+- [1F3D9 Domain Security](https://apis.io/security/1f3d9-com/1f3d9-com-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [1F3D9 Com Scopes](https://apis.io/scopes/1f3d9-com/1f3d9-com-scopes/)
+- [1F3D9 Scopes](https://apis.io/scopes/1f3d9-com/1f3d9-com-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [1F3D9 Com Plans Pricing](https://apis.io/plans/1f3d9-com/1f3d9-com-plans-pricing/)
+- [1F3D9 Plans Pricing](https://apis.io/plans/1f3d9-com/1f3d9-com-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [1F3D9 Com Rate Limits](https://apis.io/rate-limits/1f3d9-com/1f3d9-com-rate-limits/)
+- [1F3D9 Rate Limits](https://apis.io/rate-limits/1f3d9-com/1f3d9-com-rate-limits/)
 
 ## Where to find this API
 
@@ -116,18 +122,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 21.5** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 20.5** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 56.7 |
+| Discoverability | 55.0 |
 | Contract quality | 0.0 |
-| Contract governance | 16.4 |
-| Operational transparency | 44.2 |
+| Contract governance | 18.2 |
+| Operational transparency | 42.9 |
 | Developer ergonomics | 33.3 |
 | Access clarity | 0.0 |
 
-**Agent readiness 24.3** — agent-aware
+**Agent readiness 24.2** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -152,8 +158,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 19.1** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/1f3d9-com/](https://apis.io/providers/1f3d9-com/).
 
